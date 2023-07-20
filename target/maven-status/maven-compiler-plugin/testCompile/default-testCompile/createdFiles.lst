@@ -1,0 +1,10 @@
+pageObjects\LoginPage.class
+pageObjects\SearchCustomePage.class
+testRunner\TestRunner.class
+pageObjects\AddNewCustomer.class
+stepDefinitions\CloseStep.class
+stepDefinitions\BaseClass.class
+utilities\WaitHelper.class
+stepDefinitions\StepDef.class
+utilities\TimeStamp.class
+utilities\ReadConfig.class
